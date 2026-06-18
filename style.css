@@ -178,3 +178,20 @@ gap:50px;
     border-radius: 15px;
     box-shadow: 0 0 15px rgba(0,0,0,0.15);
 }
+#skills{
+    width: 90%;
+    max-width: 900px;
+    margin: 40px auto;
+}
+
+#skills .card{
+    background: white;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+}
+
+#skills p{
+    margin: 10px 0;
+    font-weight: 500;
+}
