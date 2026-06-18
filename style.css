@@ -163,3 +163,9 @@ gap:50px;
 .hero a:hover{
     color: white !important;
 }
+.hero a,
+.hero a:link,
+.hero a:visited{
+    color: white !important;
+    text-decoration: none;
+}
