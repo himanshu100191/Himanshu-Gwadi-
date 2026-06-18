@@ -213,4 +213,21 @@ gap:50px;
     box-shadow:0 3px 10px rgba(0,0,0,0.1);
     text-align:center;
 }
+#experience{
+    width:90%;
+    max-width:900px;
+    margin:40px auto;
+}
 
+#experience .card{
+    background:white;
+    padding:25px;
+    margin-bottom:20px;
+    border-radius:15px;
+    box-shadow:0 5px 15px rgba(0,0,0,0.15);
+}
+
+#experience h3{
+    color:#0a2342;
+    margin-bottom:8px;
+    }
