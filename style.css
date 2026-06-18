@@ -157,11 +157,18 @@ gap:50px;
     color:white;
 }
 .hero a{
-    color: white !important;
     text-decoration: none;
 }
-.hero a:hover{
-    color: white !important;
+
+.gold-link,
+.gold-link:link,
+.gold-link:visited{
+    color:#d4af37 !important;
+    font-weight:600;
+}
+
+.gold-link:hover{
+    color:#e6c55a !important;
 }
 #about{
     width: 90%;
