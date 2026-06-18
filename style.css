@@ -156,3 +156,10 @@ gap:50px;
 .fa-linkedin{
     color:white;
 }
+.hero a{
+    color: white !important;
+    text-decoration: none;
+}
+.hero a:hover{
+    color: white !important;
+}
