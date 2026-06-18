@@ -131,3 +131,24 @@ color:white;
 .project-card h2{
     margin-top:15px;
 }
+.hero{
+    background:
+    linear-gradient(rgba(0,0,0,0.45),
+    rgba(0,0,0,0.45)),
+    url('images/Banner.jpg');
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    min-height: 450px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 50px;
+}
+
+.hero h1,
+.hero p{
+    color: white;
+}
