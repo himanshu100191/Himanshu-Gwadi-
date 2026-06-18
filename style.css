@@ -253,3 +253,6 @@ gap:50px;
 .exp-item:last-child{
     margin-bottom:0;
 }
+.gold-link{
+    color:#d4af37 !important;
+}
