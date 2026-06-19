@@ -265,3 +265,14 @@ gap:50px;
 .gold-link{
     color:#d4af37 !important;
 }
+.job-header{
+    display:flex;
+    align-items:center;
+    gap:8px;
+}
+
+.ey-logo{
+    width:24px;
+    height:24px;
+    object-fit:contain;
+}
